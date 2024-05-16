@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+@import url('https://fonts.googleapis.com/css2?family=Sedan+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Sedan+SC&display=swap');
+body {
+    color: white;
+    background-color: black;
+
+}
+
+h1 {
+    font-family: 'Tangerine', serif;
+    font-size: 6vw;
+    text-align: center;
+    color: white;
+    
+}
+li {
+    display: inline-block;
+    
+}
+
+p {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2vw;
+}
+#showcase {
+    text-align: center;
+}
+.btn {
+    background-color:#B40404 ;
+    font-family: 'Sedan SC', serif;
+    font-size: 40px;
+    border: 3px solid white;
+    text-decoration: none;
+}
+h2 {
+    color: #B40404;
+}
+
+
+#elem {
+    position: sticky;
+}
+.logo {
+    align-items: center;
+    
+    position:sticky;
+    position: static;
+    
+}
